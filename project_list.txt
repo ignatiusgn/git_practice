@@ -1,0 +1,3 @@
+The Project:
+- Customer Segmentation	: link
+- Airbnb dashboard	: link_2
