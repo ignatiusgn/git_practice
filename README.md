@@ -7,3 +7,5 @@ latihan git, dibimbing
 This is text from branch-1
 Ini adalah text baru dari branch-1 
 Materi dari dibimbing class day 35
+
+Ini adalah text
